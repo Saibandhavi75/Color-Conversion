@@ -54,24 +54,19 @@ Anaconda - Python 3.7
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<br>
-<br>
+![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/di%20opt%201.PNG?raw=true)
 
 ### ii) HSV to RGB and BGR
-<br>
-<br>
+![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/di%20opt2.PNG?raw=true)
 
 ### iii) RGB and BGR to YCrCb
-<br>
-<br>
+![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/di%20otp3.PNG?raw=true)
 
 ### iv) Split and merge RGB Image
-<br>
-<br>
+![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/di%20opt4.PNG?raw=true)
 
 ### v) Split and merge HSV Image
-<br>
-<br>
+![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/di%20otp5.PNG?raw=true)
 
 
 ## Result:
