@@ -96,19 +96,19 @@ cv2.destroyAllWindow
 
 
 ### ii) HSV to RGB and BGR
-![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/B%20OTP2.png?raw=true)
+![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/22.jpg?raw=true)
 
 
 ### iii) RGB and BGR to YCrCb
-![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/B%20OTP3.png?raw=true)
+![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/33.jpg?raw=true)
 
 
 ### iv) Split and merge RGB Image
-![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/B%20OTP4.png?raw=true)
+![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/44.jpg?raw=true)
 
 
 ### v) Split and merge HSV Image
-![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/B%20OTP5.PNG?raw=true)
+![output](https://github.com/Saibandhavi75/Color-Conversion/blob/main/55.jpg?raw=true)
 
 
 ## Result:
